@@ -2,7 +2,7 @@
 
 LINE TV 發燒頁策展「在同一片天空下」使用的像素字體，透過 jsDelivr 提供給頁面載入。
 
-- 負責人：Lynn（LINE TV 行銷）
+- 負責人：MKT
 - 用途：版頭主標、路線名、標籤、攻略進度等大字與短標籤（內文仍用黑體）
 - 活動期間：2026/12/1 起；活動結束、頁面下架後即可封存此 repo
 
@@ -22,6 +22,6 @@ LINE TV 發燒頁策展「在同一片天空下」使用的像素字體，透過
 
 ## 頁面引用網址
 
-https://cdn.jsdelivr.net/gh/<帳號>/same-sky-fonts@1.0.0/fonts/BoutiqueBitmap9x9_sky.woff2
+https://cdn.jsdelivr.net/gh/justlinetvmarket/same-sky-fonts@1.0.0/same-sky-fonts/fonts/BoutiqueBitmap9x9_sky.woff2
 
 修改字體後請發布新版本（例如 1.0.1），再把頁面網址裡的版本號一起改掉。
